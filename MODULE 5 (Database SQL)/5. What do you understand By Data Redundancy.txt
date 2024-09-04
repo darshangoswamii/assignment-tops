@@ -1,0 +1,25 @@
+5 What do you understand By Data Redundancy?
+Data redundancy is a situation where data is stored in multiple locations, making it easier to recover in case  
+of data loss or corruption.
+
+What are the benefits of data redundancy?
+
+ 
+A. Improved data availability: With data redundancy, you can access your data even if one or more storage devices fail.
+
+B. Enhanced data security: Redundant data can be used to detect and correct errors
+
+C. Simplified data recovery: In case of data loss or corruption, you can easily recover your data from the redundant copies.
+
+
+What are the types of data redundancy?
+
+A. Data Duplication: This occurs when the same data is stored in multiple locations, such as when a customer's name and address are stored in both the sales and marketing databases.
+
+B. Data Inconsistency: This occurs when different versions of the same data exist in different locations, such as when a customer's address is updated in one database but not in another.
+
+C. Data Replication: This occurs when data is intentionally duplicated in multiple locations to improve data availability and performance, such as when data is replicated across multiple servers in a distributed database.
+
+D. Data Redundancy in Data Storage: This occurs when data is stored in a way that is redundant or unnecessary, such as when a database stores both a person's age and their date of birth.
+
+E. Data Redundancy in Data Transmission: This occurs when data is transmitted multiple times over a network, such as when a file is sent multiple times over the internet.
